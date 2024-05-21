@@ -1,0 +1,23 @@
+xa = 5;
+ya = 10;
+
+if ya <= 10 {
+  // success
+} else {
+  // fail
+}
+
+square: func (arg) {
+ // print(arg * arg);
+}
+
+// TODO
+
+// list: ["how", "are", "you"];
+
+// object:
+//  first = "first",
+//  second = "second",
+//  last = "last";
+
+// real programmers don't use loops
